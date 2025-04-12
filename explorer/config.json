@@ -1,0 +1,9 @@
+{
+	"network-configs": {
+		"police-network": {
+			"name": "Police Network",
+			"profile": "./connection-profile/test-network.json"
+		}
+	},
+	"license": "Apache-2.0"
+}
